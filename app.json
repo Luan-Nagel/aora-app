@@ -14,14 +14,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "package": "com.lnconst.aora"
+      "package": "com.lncdev.aora"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.lnconst.aora"
+      "package": "com.lncdev.aora"
     },
     "web": {
       "favicon": "./assets/favicon.png"
